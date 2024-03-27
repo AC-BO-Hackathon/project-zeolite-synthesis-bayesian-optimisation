@@ -1,4 +1,4 @@
-# mandatory
+-e . # package from this repo
 numpy
 pandas
 plotly
