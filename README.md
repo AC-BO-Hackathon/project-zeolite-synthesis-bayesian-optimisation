@@ -4,7 +4,7 @@
 <img src="images/Poster_BO_Zeolite.png" alt="Summarizing poster" width="800"/>
 
 ## Scope
-This repository was initiated as an entry for the [Bayesian Optimization Hackathon for Chemistry and Materials](https://ac-bo-hackathon.github.io/), held on March 27-28, 2024, and sponsored by the Acceleration Consortium and Merck KGaA. Here, we propose Bayesian optimization within the field of zeolite synthesis. This concept is also explained in a [short video](https://www.youtube.com/).
+This repository was initiated as an entry for the [Bayesian Optimization Hackathon for Chemistry and Materials](https://ac-bo-hackathon.github.io/), held on March 27-28, 2024, and sponsored by the Acceleration Consortium and Merck KGaA. Here, we propose Bayesian optimization within the field of zeolite synthesis. This concept is also explained in a [short video](https://www.youtube.com/watch?v=4lFEUixwkE8).
 
 Despite their significant industrial applications as catalysts, ion exchangers and adsorbents, the synthesis of zeolites predominantly relies on heuristics, experience and a sprinkle of magic.  Employing Bayesian optimization has the potential to swiftly navigate the extensive parameter space in zeolite synthesis research and reduce associated costs.
 
