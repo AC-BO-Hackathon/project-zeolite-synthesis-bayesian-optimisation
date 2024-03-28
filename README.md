@@ -8,7 +8,7 @@ This repository was initiated as an entry for the [Bayesian Optimization Hackath
 
 Despite their significant industrial applications as catalysts, ion exchangers and adsorbents, the synthesis of zeolites predominantly relies on heuristics, experience and a sprinkle of magic.  Employing Bayesian optimization has the potential to swiftly navigate the extensive parameter space in zeolite synthesis research and reduce associated costs.
 
-## Introductory text on zeolites, zeolite synthesis and Bayesian optimization
+## [Introductory text](./zeolite_synthesis_bo_introduction.md) on zeolites, zeolite synthesis and Bayesian optimization
 In [zeolite_synthesis_bo_introduction.md](./zeolite_synthesis_bo_introduction.md) we provide an overview of the following topics:
 1. **Zeolites:** definition, properties and relevance in industry
 2. **Zeolite Synthesis:** typical procedures, ingredients and equipments
